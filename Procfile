@@ -1,0 +1,1 @@
+web: sh setup && streamlit run cifar10-classfn-app.py
