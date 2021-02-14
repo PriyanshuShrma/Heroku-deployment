@@ -1,1 +1,1 @@
-web: sh setup && streamlit run cifar10-classfn-app.py
+web: sh setup.sh && streamlit run cifar10-classfn-app.py
